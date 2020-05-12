@@ -1,3 +1,4 @@
+# SAS - From Github
 # Built application files
 *.apk
 *.aar
@@ -83,3 +84,21 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+# EAS - From Github
+
+# SAS - From Android App
+#*.iml # Already added above
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+#.externalNativeBuild # Already added above
+.cxx
+# EAS - From Android App
